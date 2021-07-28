@@ -1,0 +1,36 @@
+//color var
+$header-bgcolor:pink;
+$main-bgcolor:yellow;
+$footer-bgclor:orange;
+
+
+//color var diclaretion
+
+header{
+    background: $header-bgcolor;
+}
+//nav
+nav{
+  margin-top: 15px;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+
+}
+nav ul li a{
+    display: inline-block;
+}
+nav ul li a:hover{
+
+}
+
+
+main{
+    background: $main-bgcolor;
+}
+footer{
+    background: $footer-bgclor;
+}

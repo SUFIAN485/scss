@@ -1,0 +1,28 @@
+header {
+  background: pink;
+}
+
+nav {
+  margin-top: 15px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: inline-block;
+}
+
+main {
+  background: yellow;
+}
+
+footer {
+  background: orange;
+}
+/*# sourceMappingURL=style.css.map */
