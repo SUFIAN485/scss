@@ -1,0 +1,3 @@
+@each $color in red, green, blue {
+    .#{$color}-text {color: $color;}
+}
